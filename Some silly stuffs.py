@@ -11,7 +11,7 @@ def func(option):
         radius = circumference / (2 * pi)
         print("The radius is equal to:", round(radius, 2))
 
-print("Welcome to Floof's universal calculator\u2122 v0.1\n\n")
+print("Welcome to Floof's universal calculator\u2122 Prototype 1\n\n")
 optionOut = int(input("1: Calculate radius from circumference\n2: Calculate circumference from radius\nOption: "))
 func(optionOut)
 
